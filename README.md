@@ -3,7 +3,7 @@
 
 The original implementation of ReDiffuser accepted by ICML 2024.
 
-![framework](https://github.com/he-nantian/ReDiffuser/blob/main/framework.pdf)
+![framework](https://github.com/he-nantian/ReDiffuser/blob/main/framework.png)
 
 ## 1. Download checkpoints
 
