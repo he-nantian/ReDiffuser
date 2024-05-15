@@ -76,7 +76,7 @@ else:
     raise NameError
 
 # discount_power = args.discount_power
-load_dir = "robuster/model_{}_{}".format(robuster, args.keyword)
+load_dir = "RNDmodel/model_{}_{}".format(robuster, args.keyword)
 save_dir = "test_{}".format(args.keyword)
 
 # nice

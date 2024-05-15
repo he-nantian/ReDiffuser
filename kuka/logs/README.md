@@ -1,1 +1,0 @@
-Extract the offline dataset from https://www.dropbox.com/s/zofqvtkwpmp4v44/metainfo.tar.gz?dl=0 by following the original Diffuser.

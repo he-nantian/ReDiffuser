@@ -62,7 +62,7 @@ elif args.keyword == "umaze":
 else:
     raise NameError
 
-save_dir = "robuster/model_{}_{}".format(robuster, args.keyword)
+save_dir = "RNDmodel/model_{}_{}".format(robuster, args.keyword)
 
 batch_size = 512
 n_epochs = 100

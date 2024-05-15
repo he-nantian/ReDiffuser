@@ -6,7 +6,6 @@ import diffuser.datasets as datasets
 import diffuser.utils as utils
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "7"
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 
