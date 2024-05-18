@@ -1,7 +1,6 @@
-# ReDiffuser
-**ReDiffuser: Reliable Decision-Making Using a Diffuser with Confidence Estimation**
+# ReDiffuser: Reliable Decision-Making Using a Diffuser with Confidence Estimation
 
-(The original implementation of ReDiffuser accepted by ICML 2024.)
+The original implementation of ReDiffuser accepted by ICML 2024.
 
 **Abstract**
 
