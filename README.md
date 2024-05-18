@@ -15,7 +15,7 @@ We have uploaded the checkpoints of Diffuser and RND along with the generated da
 
 ## 3. Run scripts
 
-(1) To make experiments in one of the three tasks, run:
+(1) To perform experiments in any of the three tasks, run:
 
 <code>cd \<task name\></code>
 
