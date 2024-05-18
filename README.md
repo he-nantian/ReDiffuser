@@ -37,7 +37,7 @@ We have uploaded the checkpoints of Diffuser and RND along with the generated da
 
 ## *Hyperparameters*
 
-Most of the hyperparameters are specified in the *config* folder, and some of the hyperparameters are specified in the code by using argparse. It is important to know the meaning of each hyperparameter, and feel free to raise an issue if you get puzzled.
+Most of the hyperparameters are specified in the *config* folder, and some of the hyperparameters are specified in the code by using *argparse*. It is important to know the meaning of each hyperparameter, and feel free to raise an issue if you get puzzled.
 
 ## Acknowledgements
 
